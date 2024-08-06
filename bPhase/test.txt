@@ -1,0 +1,8 @@
+x=4;
+y=5;
+function f(z){
+	print x;
+	local y=2;
+	::x=5;
+}
+print y;

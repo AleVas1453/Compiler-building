@@ -1,0 +1,9 @@
+//function g(x){ return x+totalarguments();}
+
+
+
+function f(x,y){
+    return argument(3);
+}
+
+print(f(10,20,30,"tet",50,60));

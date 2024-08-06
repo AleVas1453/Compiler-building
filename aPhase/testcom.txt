@@ -1,0 +1,23 @@
+x = 1;
+/* SIMPLE MULTILINE 
+COMMENT  /////*adsfasd****/
+
+
+// asdasd /* asdasd
+
+*//// ****/
+"mpla \n \tmpla \"mplampla\"
+
+COMMENT  /////*adsfasd****/
+
+
+// asdasd /* asdasd
+
+*//// ****/
+
+"
+123.123;
+
+
+x=1;
+
